@@ -657,17 +657,17 @@ This is pretty cool talk by Charles Stross, given at <strong>Computer Chaos Club
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: <a href="https://disqus.com/admin/universalcode/#configuration-variables" target="_blank">https://disqus.com/admin/universalcode/#configuration-variables</a>
-     <em>/
-    /</em>
-    var disqus_config = function () {
-        this.page.url = <a href="https://binarybot.github.io/post/" target="_blank">https://binarybot.github.io/post/</a>;  // Replace PAGE_URL with your page&rsquo;s canonical URL variable
-        this.page.identifier = dudeyoubrokethefuture; // Replace PAGE_IDENTIFIER with your page&rsquo;s unique identifier variable
-    };
-    */
-    (function() {  // DON&rsquo;T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement(&lsquo;script&rsquo;);</p>
+     */</p>
 
-<pre><code>    s.src = 'https://https-binarybot-github-io.disqus.com/embed.js';
+<pre><code>var disqus_config = function () {
+    this.page.url = '{{content.absolute_url}}';  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = '{{content_id}}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() {  // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+
+    s.src = 'https://https-binarybot-github-io.disqus.com/embed.js';
 
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
@@ -734,7 +734,7 @@ This is pretty cool talk by Charles Stross, given at <strong>Computer Chaos Club
             return;
         }
         var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "binarybot" + '.disqus.com/embed.js';
+        s.src = '//' + "https-binarybot-github-io" + '.disqus.com/embed.js';
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
     })();
@@ -829,7 +829,7 @@ This is pretty cool talk by Charles Stross, given at <strong>Computer Chaos Club
     
     
     
-    <script id="dsq-count-scr" src="//binarybot.disqus.com/count.js" async></script>
+    <script id="dsq-count-scr" src="//https-binarybot-github-io.disqus.com/count.js" async></script>
     
 
     
