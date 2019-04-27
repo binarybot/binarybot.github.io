@@ -10,5 +10,14 @@
 	<atom:link href="https://binarybot.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Mohan Nataraj</title>
+      <link>https://binarybot.github.io/authors/mohan-nataraj/</link>
+      <pubDate>Sat, 27 Apr 2019 19:36:51 +0530</pubDate>
+      
+      <guid>https://binarybot.github.io/authors/mohan-nataraj/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

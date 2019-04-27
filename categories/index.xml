@@ -10,5 +10,23 @@
 	<atom:link href="https://binarybot.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Computer Chaos Club</title>
+      <link>https://binarybot.github.io/categories/computer-chaos-club/</link>
+      <pubDate>Sat, 27 Apr 2019 19:36:51 +0530</pubDate>
+      
+      <guid>https://binarybot.github.io/categories/computer-chaos-club/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Mathematics</title>
+      <link>https://binarybot.github.io/categories/discrete-mathematics/</link>
+      <pubDate>Sat, 27 Apr 2019 19:25:01 +0530</pubDate>
+      
+      <guid>https://binarybot.github.io/categories/discrete-mathematics/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

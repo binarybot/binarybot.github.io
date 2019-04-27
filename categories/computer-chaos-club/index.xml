@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mohan Nataraj</title>
-    <link>https://binarybot.github.io/post/</link>
-    <description>Recent content in Posts on Mohan Nataraj</description>
+    <title>Computer Chaos Club on Mohan Nataraj</title>
+    <link>https://binarybot.github.io/categories/computer-chaos-club/</link>
+    <description>Recent content in Computer Chaos Club on Mohan Nataraj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 19:36:51 +0530</lastBuildDate>
     
-	<atom:link href="https://binarybot.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://binarybot.github.io/categories/computer-chaos-club/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://binarybot.github.io/post/dudeyoubrokethefuture/</guid>
       <description>This is pretty cool talk by Charles Stross, given at Computer Chaos Club congressional this talk reflects my opinion or views on current world of corporates, startups, artificial intelligence (referred by speaker as corporate AI and computerized AI) and one ridiculed CEO or lets say more than one [:P]. You can also find reason&amp;rsquo;s on why I quit facebook or hated it in the first place.
 The talk starts by saying on how prediction 3 centuries back or even a century back was possible to do accurately.</description>
-    </item>
-    
-    <item>
-      <title>Childhood Puzzle Revealed</title>
-      <link>https://binarybot.github.io/post/childhoodpuzzelrevealed/</link>
-      <pubDate>Sat, 27 Apr 2019 19:25:01 +0530</pubDate>
-      
-      <guid>https://binarybot.github.io/post/childhoodpuzzelrevealed/</guid>
-      <description></description>
     </item>
     
   </channel>
