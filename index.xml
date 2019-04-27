@@ -35,6 +35,31 @@ This is pretty cool talk by Charles Stross, given at &lt;strong&gt;Computer Chao
 &lt;p&gt;I hope you enjoy this video and get alot to learn. You have any comments, opinions or anything to discuss or want to know you can comment or mail me.&lt;/p&gt;
 
 &lt;p&gt;&lt;small&gt; Need to update this again &lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34; target=&#34;_blank&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = &lt;a href=&#34;https://binarybot.github.io/post/&#34; target=&#34;_blank&#34;&gt;https://binarybot.github.io/post/&lt;/a&gt;;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = dudeyoubrokethefuture; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // DON&amp;rsquo;T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    s.src = &#39;https://https-binarybot-github-io.disqus.com/embed.js&#39;;
+
+    s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+    (d.head || d.body).appendChild(s);
+})();
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
