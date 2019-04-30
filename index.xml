@@ -15,7 +15,7 @@
       <pubDate>Sat, 27 Apr 2019 19:36:51 +0530</pubDate>
       
       <guid>https://binarybot.github.io/post/dudeyoubrokethefuture/</guid>
-      <description>&lt;p&gt;This is pretty cool talk by Charles Stross, given at &lt;strong&gt;Computer Chaos Club&lt;/strong&gt; congression this talk reflects my opinion or views on current world of corporates, startups, artificial intelligence (referred by speaker as corporate AI and computerized AI) and one ridiculed CEO or lets say more than one [:P]. You can also find reason&amp;rsquo;s on why I quit facebook or hated it in the first place.&lt;/p&gt;
+      <description>&lt;p&gt;This is pretty cool talk by Charles Stross, given at &lt;strong&gt;Chaos Computer Club&lt;/strong&gt; congression this talk reflects my opinion or views on current world of corporates, startups, artificial intelligence (referred by speaker as corporate AI and computerized AI) and one ridiculed CEO or lets say more than one [:P]. You can also find reason&amp;rsquo;s on why I quit facebook or hated it in the first place.&lt;/p&gt;
 
 &lt;p&gt;The talk starts by saying on how prediction 3 centuries back or even a century back was possible to do accurately. Which infact reminds me of what my astrologer threw at me when I asked him where I will exactly be in 5 years [:D], yep a typical &lt;strong&gt;South Indian boy&lt;/strong&gt;. Further the speaker talks about Artificial Intelligence singularity (computerized), infact you can giggle on when the speaker says @ 7:30 &lt;strong&gt;&amp;ldquo;if we created an AI equivalent of human mind it would be sitting on a couch and watching super bowl all day&amp;rdquo;&lt;/strong&gt;, I&amp;rsquo;m sure to say this is one of the least obnoxious way anyone can put it knowing what we human&amp;rsquo;s are capable of doing or the way we live in 21&lt;sup&gt;st&lt;/sup&gt; century.&lt;/p&gt;
 
@@ -43,7 +43,68 @@
       <pubDate>Sat, 27 Apr 2019 19:25:01 +0530</pubDate>
       
       <guid>https://binarybot.github.io/post/childhoodpuzzelrevealed/</guid>
-      <description></description>
+      <description>&lt;p&gt;Whilst &lt;strong&gt;&lt;em&gt;&amp;ldquo;Bridges&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; are built to span through obstacles, the preceding statement was quite erring in the city of &lt;strong&gt;Königsberg in Prussia (now Kaliningrad, Russia)&lt;/strong&gt; during the &lt;strong&gt;&lt;em&gt;18&lt;sup&gt;th&lt;/sup&gt; century&lt;/em&gt;&lt;/strong&gt;. Here we talk about the inception of &lt;strong&gt;&lt;em&gt;Graph Theory&lt;/em&gt;&lt;/strong&gt;, it&amp;rsquo;s application to the real world problems and a famous puzzle asked during my childhood. The blog also contain a pretty good talk given by a math student below in &lt;strong&gt;Chaos Computer Club&lt;/strong&gt; congression.&lt;/p&gt;
+
+&lt;p&gt;During the 18th century in the city of Königsberg the land masses were connected by seven bridges. The problem or challenge in the city was to walk or traverse through the seven bridges only once, i.e; to walk &lt;strong&gt;&lt;em&gt;atmost&lt;/em&gt;&lt;/strong&gt; only once on all the bridges. While the challenge was talk of the town during the period, we show on how &lt;strong&gt;Leonhard Euler&lt;/strong&gt; approached the problem that actually gave rise to &lt;strong&gt;&amp;ldquo;Graph Theory&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;euler.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;left to right city of Königsberg converted into graph (graph theory)&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;The right most part of the image shows on how the land masses and bridges are converted into graph theoretic notation. The land masses are represented by a circle or commonly called &lt;strong&gt;&lt;em&gt;&amp;ldquo;Node or Vertex&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; and the line connecting two nodes is called an &lt;strong&gt;&lt;em&gt;&amp;ldquo;Edge&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;. An edge commonly defines a relationship between &lt;strong&gt;&lt;em&gt;two&lt;/em&gt;&lt;/strong&gt; nodes and they always &lt;strong&gt;&lt;em&gt;connect two nodes&lt;/em&gt;&lt;/strong&gt;. The last term to know is &lt;strong&gt;&lt;em&gt;degree&lt;/em&gt;&lt;/strong&gt; of a node which is actually the number of edges or lines incident on a node or vertex. Now since we got the basics of &lt;strong&gt;Graph Theory&lt;/strong&gt; before diving into Euler&amp;rsquo;s solution I would like share the childhood puzzle I was talking about.&lt;/p&gt;
+
+&lt;p&gt;While in the &lt;strong&gt;&lt;em&gt;90&amp;rsquo;s and early 2000&amp;rsquo;s&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;Bangalore&lt;/strong&gt; was absolutely a great time to grow and have fun (name it sport, education to being a cool kid). One of the famous puzzle or the &lt;strong&gt;challenge&lt;/strong&gt; thrown at us was &lt;strong&gt;&lt;em&gt;to draw the below image such that without lifting your pen or pencil and most importantly you cannot pass over the line already drawn i.e; you cannot pass a line twice&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;flower.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;figure to draw (familiar??)&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;While the above can be &lt;strong&gt;&lt;em&gt;converted&lt;/em&gt;&lt;/strong&gt; into graph theoretical notation just as how &lt;strong&gt;Leonhard Euler&lt;/strong&gt; did it. Well just so, we can convert it by drawing circle or vertices or nodes at the four corners of the square and consider the line joining them as edges (curved lines are also edges). Now if you have tried solving the above you know that it is not possible to complete the following diagram, but almost possible well you may just miss one edge out of 10 (try). The explanation here is quite easy, I shall let you think with a hint &lt;strong&gt;&amp;ldquo;degree of vertex&amp;rdquo;&lt;/strong&gt; well I hope that you paid attention to that term above to be more precise atleast two vertices or nodes or circles should have what number of degree&amp;rsquo;s (odd or even)? &lt;strong&gt;Hmmm!! Well did that just reveal the answer, hope not!!&lt;/strong&gt;. But hey, just so you did not get the above story that&amp;rsquo;s absolutely fine see the video below :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/W18FDEA1jRQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I hope you got it now, oh well there is always something about &lt;strong&gt;&lt;em&gt;old white men and being genius&lt;/em&gt;&lt;/strong&gt; got to blame Einstein. [:P] For more entertainment and want to know more about graph theory and video games as &lt;strong&gt;&lt;em&gt;&amp;ldquo;we cool kids&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; love playing PC games. Here is a video from &lt;strong&gt;Chaos Computer Club&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe width=&#34;768&#34; height=&#34;576&#34; src=&#34;https://media.ccc.de/v/SHA2017-319-mathematics_and_video_games/oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+The above video does have some very cool content if you are into &lt;strong&gt;&lt;em&gt;topology&lt;/em&gt;&lt;/strong&gt;, just to put it across in simple terms imagine &lt;strong&gt;&lt;em&gt;&amp;ldquo;when you get your wife so angry that she would squeeze a donut in her hand so hard that it turns into a sphere&amp;rdquo;,&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;hmmm!!!&lt;/strong&gt; must say now &lt;strong&gt;&lt;em&gt;&amp;ldquo;that&amp;rsquo;s not so pretty transformation huh??&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; Well if your a mathematician like me and your concerned with &lt;strong&gt;&amp;ldquo;Topology&amp;rdquo;&lt;/strong&gt; I bet you would enjoy it as much as otherwise. &lt;a href=&#34;I&#39;m not married yet, just so you know&#34; target=&#34;_blank&#34;&gt;:D&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The real world application of graph theory is quite immense due to its simplicity, it ranges from waking across the 18&lt;sup&gt;th&lt;/sup&gt; century bridges to current navigation technology, yep that&amp;rsquo;s right google maps does use it. You can also use it for scheduling airplanes, project management, production management and hey what&amp;rsquo;s more important than scheduling your life ?&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;strong&gt;&lt;em&gt;Wanna know more feel free to comment or hit me up. I&amp;rsquo;m always looking forward to help you and my philosophy to share knowledge, it&amp;rsquo;s absolutely free, just get me coffee &amp;amp; donut :P.&lt;/em&gt;&lt;/strong&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt; update better links if exists on internet later&lt;/small&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg&#34; target=&#34;_blank&#34;&gt;Wiki - Seven Bridges&lt;/a&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Topology&#34; target=&#34;_blank&#34;&gt;Wiki - Topology&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
