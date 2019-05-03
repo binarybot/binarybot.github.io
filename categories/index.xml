@@ -28,5 +28,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Philosophy</title>
+      <link>https://binarybot.github.io/categories/philosophy/</link>
+      <pubDate>Fri, 03 May 2019 23:13:20 +0530</pubDate>
+      
+      <guid>https://binarybot.github.io/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>https://binarybot.github.io/categories/politics/</link>
+      <pubDate>Fri, 03 May 2019 23:13:20 +0530</pubDate>
+      
+      <guid>https://binarybot.github.io/categories/politics/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
