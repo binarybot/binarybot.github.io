@@ -28,14 +28,6 @@
     
     <url>
     
-      <loc>https://binarybot.github.io/proposal/</loc>
-      <lastmod>2019-01-01T00:00:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://binarybot.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
@@ -172,7 +164,7 @@
     
     <url>
     
-      <loc>https://binarybot.github.io/categories/philosophy/</loc>
+      <loc>https://binarybot.github.io/tags/philosophy/</loc>
       <lastmod>2019-05-03T23:13:20+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -181,7 +173,7 @@
     
     <url>
     
-      <loc>https://binarybot.github.io/tags/philosophy/</loc>
+      <loc>https://binarybot.github.io/categories/philosophy/</loc>
       <lastmod>2019-05-03T23:13:20+05:30</lastmod>
       <priority>0</priority>
     </url>
