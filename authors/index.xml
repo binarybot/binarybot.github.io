@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Mohan Nataraj</title>
-    <link>https://mohanataraj.github.io/authors/</link>
-      <atom:link href="https://mohanataraj.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://binarybot.github.io/authors/</link>
+      <atom:link href="https://binarybot.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 May 2019 23:47:09 +0530</lastBuildDate>
     <image>
-      <url>https://mohanataraj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png</url>
+      <url>https://binarybot.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png</url>
       <title>Authors</title>
-      <link>https://mohanataraj.github.io/authors/</link>
+      <link>https://binarybot.github.io/authors/</link>
     </image>
     
     <item>
       <title>Mohan Nataraj</title>
-      <link>https://mohanataraj.github.io/authors/mohan-nataraj/</link>
+      <link>https://binarybot.github.io/authors/mohan-nataraj/</link>
       <pubDate>Sat, 11 May 2019 23:47:09 +0530</pubDate>
-      <guid>https://mohanataraj.github.io/authors/mohan-nataraj/</guid>
+      <guid>https://binarybot.github.io/authors/mohan-nataraj/</guid>
       <description></description>
     </item>
     
