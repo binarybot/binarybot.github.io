@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Mohan Nataraj</title>
-    <link>https://binarybot.github.io/categories/</link>
-      <atom:link href="https://binarybot.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mohanataraj.github.io/categories/</link>
+      <atom:link href="https://mohanataraj.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 May 2019 23:47:09 +0530</lastBuildDate>
     <image>
-      <url>https://binarybot.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png</url>
+      <url>https://mohanataraj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png</url>
       <title>Categories</title>
-      <link>https://binarybot.github.io/categories/</link>
+      <link>https://mohanataraj.github.io/categories/</link>
     </image>
     
     <item>
       <title>Multitask</title>
-      <link>https://binarybot.github.io/categories/multitask/</link>
+      <link>https://mohanataraj.github.io/categories/multitask/</link>
       <pubDate>Sat, 11 May 2019 23:47:09 +0530</pubDate>
-      <guid>https://binarybot.github.io/categories/multitask/</guid>
+      <guid>https://mohanataraj.github.io/categories/multitask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>https://binarybot.github.io/categories/music/</link>
+      <link>https://mohanataraj.github.io/categories/music/</link>
       <pubDate>Sat, 11 May 2019 23:47:09 +0530</pubDate>
-      <guid>https://binarybot.github.io/categories/music/</guid>
+      <guid>https://mohanataraj.github.io/categories/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chaos Computer Club</title>
-      <link>https://binarybot.github.io/categories/chaos-computer-club/</link>
+      <link>https://mohanataraj.github.io/categories/chaos-computer-club/</link>
       <pubDate>Sat, 27 Apr 2019 19:36:51 +0530</pubDate>
-      <guid>https://binarybot.github.io/categories/chaos-computer-club/</guid>
+      <guid>https://mohanataraj.github.io/categories/chaos-computer-club/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discrete Mathematics</title>
-      <link>https://binarybot.github.io/categories/discrete-mathematics/</link>
+      <link>https://mohanataraj.github.io/categories/discrete-mathematics/</link>
       <pubDate>Sat, 27 Apr 2019 19:25:01 +0530</pubDate>
-      <guid>https://binarybot.github.io/categories/discrete-mathematics/</guid>
+      <guid>https://mohanataraj.github.io/categories/discrete-mathematics/</guid>
       <description></description>
     </item>
     
