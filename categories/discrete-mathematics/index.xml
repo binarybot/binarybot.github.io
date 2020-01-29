@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Discrete Mathematics | Mohan Nataraj</title>
-    <link>https://binarybot.github.io/categories/discrete-mathematics/</link>
-      <atom:link href="https://binarybot.github.io/categories/discrete-mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mohanataraj.github.io/categories/discrete-mathematics/</link>
+      <atom:link href="https://mohanataraj.github.io/categories/discrete-mathematics/index.xml" rel="self" type="application/rss+xml" />
     <description>Discrete Mathematics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2019 19:25:01 +0530</lastBuildDate>
     <image>
-      <url>https://binarybot.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png</url>
+      <url>https://mohanataraj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_2.png</url>
       <title>Discrete Mathematics</title>
-      <link>https://binarybot.github.io/categories/discrete-mathematics/</link>
+      <link>https://mohanataraj.github.io/categories/discrete-mathematics/</link>
     </image>
     
     <item>
       <title>Childhood Puzzle Revealed</title>
-      <link>https://binarybot.github.io/post/childhoodpuzzelrevealed/</link>
+      <link>https://mohanataraj.github.io/post/childhoodpuzzelrevealed/</link>
       <pubDate>Sat, 27 Apr 2019 19:25:01 +0530</pubDate>
-      <guid>https://binarybot.github.io/post/childhoodpuzzelrevealed/</guid>
+      <guid>https://mohanataraj.github.io/post/childhoodpuzzelrevealed/</guid>
       <description>&lt;p&gt;Whilst &lt;em&gt;&lt;strong&gt;&amp;ldquo;Bridges&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; are built to span through obstacles, the preceding statement was quite erring in the city of &lt;strong&gt;Königsberg in Prussia (now Kaliningrad, Russia)&lt;/strong&gt; during the &lt;em&gt;&lt;strong&gt;18&lt;!-- raw HTML omitted --&gt;th&lt;!-- raw HTML omitted --&gt; century&lt;/strong&gt;&lt;/em&gt;. Here we talk about the inception of &lt;em&gt;&lt;strong&gt;Graph Theory&lt;/strong&gt;&lt;/em&gt;, it&amp;rsquo;s application to the real world problems and a famous puzzle asked during my childhood. The blog also contain a pretty good talk given by a math student below in &lt;strong&gt;Chaos Computer Club&lt;/strong&gt; congression.&lt;/p&gt;
 &lt;p&gt;During the 18th century in the city of Königsberg the land masses were connected by seven bridges. The problem or challenge in the city was to walk or traverse through the seven bridges only once, i.e; to walk &lt;em&gt;&lt;strong&gt;atmost&lt;/strong&gt;&lt;/em&gt; only once on all the bridges. While the challenge was talk of the town during the period, we show on how &lt;strong&gt;Leonhard Euler&lt;/strong&gt; approached the problem that actually gave rise to &lt;strong&gt;&amp;ldquo;Graph Theory&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
 
@@ -40,10 +40,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://binarybot.github.io/post/childhoodpuzzelrevealed/euler_hu1ce3f6d223b352866bd7a53b72fb51b5_239502_2000x2000_fit_box_2.png&#34; data-caption=&#34;left to right city of Königsberg converted into graph (graph theory)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mohanataraj.github.io/post/childhoodpuzzelrevealed/euler_hu1ce3f6d223b352866bd7a53b72fb51b5_239502_2000x2000_fit_box_2.png&#34; data-caption=&#34;left to right city of Königsberg converted into graph (graph theory)&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://binarybot.github.io/post/childhoodpuzzelrevealed/euler_hu1ce3f6d223b352866bd7a53b72fb51b5_239502_2000x2000_fit_box_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1370&#34; height=&#34;326&#34;&gt;
+  &lt;img data-src=&#34;https://mohanataraj.github.io/post/childhoodpuzzelrevealed/euler_hu1ce3f6d223b352866bd7a53b72fb51b5_239502_2000x2000_fit_box_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1370&#34; height=&#34;326&#34;&gt;
 &lt;/a&gt;
 
 
@@ -79,10 +79,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://binarybot.github.io/post/childhoodpuzzelrevealed/flower_hu6431cdfcd78ca8e5e89ab626ae3a9e7f_11024_2000x2000_fit_q75_box.jpg&#34; data-caption=&#34;figure to draw (familiar??)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mohanataraj.github.io/post/childhoodpuzzelrevealed/flower_hu6431cdfcd78ca8e5e89ab626ae3a9e7f_11024_2000x2000_fit_q75_box.jpg&#34; data-caption=&#34;figure to draw (familiar??)&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://binarybot.github.io/post/childhoodpuzzelrevealed/flower_hu6431cdfcd78ca8e5e89ab626ae3a9e7f_11024_2000x2000_fit_q75_box.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;480&#34; height=&#34;360&#34;&gt;
+  &lt;img data-src=&#34;https://mohanataraj.github.io/post/childhoodpuzzelrevealed/flower_hu6431cdfcd78ca8e5e89ab626ae3a9e7f_11024_2000x2000_fit_q75_box.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;480&#34; height=&#34;360&#34;&gt;
 &lt;/a&gt;
 
 
